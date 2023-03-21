@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development env variables
+.env
+
+# Logs and temporary files
+*.log
+*.pid
+*.db
+*.sqlite
+*.pyc
+*.swp
+
+# Dash cache and assets
+.DS_Store
+.cache/
+assets/
+
+dashV/
+
+.idea/
